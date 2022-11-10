@@ -5,3 +5,8 @@
 - 📫 How to reach me: gabrielpolicastro@outlook.com 
 
 
+🔗 Links
+email linkedin gabrielpolicastro@outlook.com https://www.linkedin.com/in/gabriel-policastro-a1b723241/ 
+
+Languages and Tools:
+firebase swift
